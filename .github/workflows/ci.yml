@@ -6,7 +6,7 @@ on:
 
 jobs:
   rspec:
-    name: Unit tests
+    name: Rspec
     runs-on: ubuntu-latest
     strategy:
       matrix:
